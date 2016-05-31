@@ -15,7 +15,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
-                <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Us</a></li>
+                <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-phone fa-lg"></i> About Me</a></li>
+                <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-home fa-lg"></i> Projects</a></li>
+                <li id="services" runat="server"><a href="Services.aspx"><i class="a fa-cogs"></i> Services Us</a></li>
+                <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Me</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
