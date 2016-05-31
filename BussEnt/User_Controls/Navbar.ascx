@@ -18,7 +18,8 @@
       
       <ul class="nav navbar-nav navbar-right">
         <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa.lg"></i>Home</a></li>
-          <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa.lg"></i>Contact</a></li>
+         
+           <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa.lg"></i>Contact</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
